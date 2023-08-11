@@ -24,11 +24,11 @@ El proyecto se enfoca en el análisis de dos conjuntos de datos relacionados con
 
 ### Funciones y aplicaciones:
 
-- **Optimización de Cobertura mediante Análisis Geoespacial:** Utilizando datos geoespaciales detallados y la información sobre accidentes automovilísticos, esta funcionalidad tiene como objetivo identificar las zonas geográficas críticas en la ciudad de Madrid que requieren una vigilancia intensificada. Mediante análisis avanzados, se determinarán las ubicaciones estratégicas para la instalación de cámaras de seguridad, maximizando así la cobertura en áreas de alto riesgo y contribuyendo a la reducción de accidentes viales.
+- **Optimización de Vigilancia Vial en Madrid:** Utilizando datos geoespaciales detallados y de accidentes, se identifican zonas críticas para una mayor vigilancia. Se eligen ubicaciones estratégicas para cámaras, maximizando la cobertura en áreas de alto riesgo y reduciendo accidentes.
 
-- **Selección de Ubicaciones para Cámaras Nocturnas basada en Patrones de Horarios:** Aprovechando los datos de horas de accidentes y combinándolos con información sobre la cantidad de cámaras existentes, esta funcionalidad se centrará en identificar los momentos del día con mayor incidencia de incidentes. Con este análisis, se determinarán las calles y áreas de la ciudad donde la instalación de cámaras con visión nocturna resulta esencial para mantener una vigilancia efectiva durante las horas críticas, contribuyendo a una mayor seguridad vial en todo momento.
+- **Selección Inteligente de Ubicaciones para Cámaras Nocturnas:** Se analizan datos de accidentes y existencia de cámaras, identificando momentos de alta incidencia de incidentes. Se determinan calles y áreas para cámaras nocturnas, mejorando la vigilancia durante horas críticas y aumentando la seguridad vial.
 
-- **Decisión Inteligente de Ubicaciones para Cámaras basada en Datos de Calles y Barrios:** Esta funcionalidad aprovechará datos sobre las características de las calles, patrones de tráfico y distribución de accidentes para tomar decisiones informadas sobre la ubicación de las cámaras. Al considerar la intersección de factores como la densidad de tráfico y la frecuencia de incidentes en distintos barrios, se determinarán las ubicaciones óptimas para la instalación de cámaras de seguridad, optimizando la vigilancia y la prevención de accidentes en lugares estratégicos de la ciudad.
+- **Decisión Inteligente de Ubicaciones para Cámaras basada en Datos de Calles y Barrios:** Se emplean datos de calles, tráfico y accidentes para tomar decisiones informadas sobre ubicaciones de cámaras. Considerando densidad de tráfico e incidentes en distintos barrios, se optimiza la prevención de accidentes en la ciudad.
 
 ### Tecnologías utilizadas:
 - Python
