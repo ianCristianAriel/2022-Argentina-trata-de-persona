@@ -1,27 +1,24 @@
-# Accidentes
+# Análisis de Accidentes de Tráfico y Distribución de Cámaras de Seguridad en Madrid
 
-![Imagen: Accidentes en Madrid](./accidentes_madrid.png)
+## Contexto
+Ante la actual situación económica y de seguridad en mi país, y con dudas sobre la capacidad de los políticos para mejorarla en los próximos 10 años, decidí explorar cómo podrían ser los índices de accidentes en las principales ciudades de España. Con el objetivo de evaluar la proactividad en seguridad vial, realicé un análisis detallado de Madrid y sus distritos. Utilicé datos del [Ayuntamiento de Madrid](https://datos.madrid.es/), procesados y analizados con Python, y presenté visualizaciones en Tableau.
 
-## Distrito del hecho
+## Resumen
+![Distribución Geográfica de Cámaras](./datos/imagenes%20informe/camaras_distribucion_geografica.png)
+Sorprendentemente, Madrid cuenta con un número reducido de cámaras de seguridad registradas. Además, la cantidad de accidentes se correlaciona con la densidad poblacional.
 
-Se observa una alta concentración de incidentes en los distritos de Puente de Vallecas, Salamanca, Chamberí, Ciudad Lineal y Carabanchel, seguido de una marcada disminución en los demás distritos.
+## Puntos de Interés
+![Accidentes por Distritos](./datos/imagenes%20informe/accidentes_distritos.png) ![Cámaras por Distritos](./datos/imagenes%20informe/camaras_distrito.png)
+Se observa que los distritos con mayor cantidad de accidentes no coinciden necesariamente con aquellos que tienen más cámaras de seguridad.
 
-## Hora del hecho
+En esta sección, se muestra cómo la distribución de cámaras se adecua a los diferentes tipos de vías, según los índices de accidentabilidad registrados.
 
-Los incidentes tienden a ocurrir principalmente en la tarde, entre las 12:00 y las 20:00 horas. Se requiere un análisis adicional para determinar posibles correlaciones y causas.
+## Conclusiones
+![Dashboard de Accidentes](./datos/imagenes%20informe/accidentes_madrid.png)
+![Dashboard de Cámaras](./datos/imagenes%20informe/camaras_madrid.png)
+Se concluye que Madrid no ha implementado de manera eficiente la distribución de cámaras en relación a los índices de accidentabilidad en los distritos, aunque sí lo ha hecho en función de los tipos de vías.
 
-## Tipo de lugar del hecho
+## Recomendaciones
+Se sugiere una mayor instalación de cámaras en las calles de los distritos de Tetuán, el centro de Madrid, San Blas-Canillejas, Moncloa-Aravaca y Chamartín, que presentan las tasas más altas de accidentabilidad.
 
-Predominan los incidentes en vías como 'Calle' y 'Avenida', lo cual es comprensible debido a la variedad de obstáculos y factores involucrados.
-
-# Cámaras para prevención
-
-![Cámaras en Madrid, España](./camaras_madrid.png)
-
-## Cantidad de cámaras por distrito
-
-Se destaca la mayor cantidad de cámaras en los distritos de Tetuán, Centro de Madrid y San Blas-Canillejas, con 14, 13 y 8 cámaras respectivamente, mientras que en los demás distritos la cantidad disminuye considerablemente.
-
-## Distribución de cámaras por tipo de vía
-
-En todos los distritos, las cámaras se distribuyen principalmente en calles y plazas, siendo escasas en otras áreas.
+A nivel general, es necesario revisar las cámaras en las calles y avenidas con capacidad de visión nocturna, dado que la mayoría de los accidentes ocurren en momentos de poca luz.
