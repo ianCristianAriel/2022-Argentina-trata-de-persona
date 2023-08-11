@@ -1,27 +1,27 @@
 # Accidentes
 
-![imagen accidentes madrid] (./accidentes madrid.png)
+![Imagen: Accidentes en Madrid](./accidentes_madrid.png)
 
 ## Distrito del hecho
 
-Se pudo observar como claramente hay una gran tasa de hechos en los sectores de Puente de vallecas, Salamanca, Chaartin, Ciudad lineal y Carabanchel y luego se produce un gran decaimiento de los mismos en los distritos registrados y restantes.
+Se observa una alta concentración de incidentes en los distritos de Puente de Vallecas, Salamanca, Chamberí, Ciudad Lineal y Carabanchel, seguido de una marcada disminución en los demás distritos.
 
 ## Hora del hecho
 
-Se pudo observar como claramente hay una pronunciacion de los hechos por el horario de la tarde entre las 12:00 hs del mediodia y las 20:00 hs de la tarde noche. Quedando para analisis posteriores concluir el motivo o correlacion de sus causas.
+Los incidentes tienden a ocurrir principalmente en la tarde, entre las 12:00 y las 20:00 horas. Se requiere un análisis adicional para determinar posibles correlaciones y causas.
 
 ## Tipo de lugar del hecho
 
-Hay una marcada pronunciacion de los hechos sobre los tipos de via 'Calle' y  'Avenida' siendo sus causas, muy comprendibles dado la calidad de obstaculos y variables intervinientes entre todos.
+Predominan los incidentes en vías como 'Calle' y 'Avenida', lo cual es comprensible debido a la variedad de obstáculos y factores involucrados.
 
-# Camaras que registren hechos con el fin de prevencion
+# Cámaras para prevención
 
-![Camaras Espania, Madrid](./camaras madrid.png)
+![Cámaras en Madrid, España](./camaras_madrid.png)
 
-## Cantidad de camaras por distrito
+## Cantidad de cámaras por distrito
 
-Se observa una notable distincion en los distritos de Tetuan, el centro de Madrid y San Blas de Canilluejas con 14, 13 y 8 camaras respectivamente, decallendo luego de manera pronunciada la cantidad de las mismas en los distritos restantes.
+Se destaca la mayor cantidad de cámaras en los distritos de Tetuán, Centro de Madrid y San Blas-Canillejas, con 14, 13 y 8 cámaras respectivamente, mientras que en los demás distritos la cantidad disminuye considerablemente.
 
-## Tipos de via donde se ditribulle las camarsa
+## Distribución de cámaras por tipo de vía
 
-Claramente en todos los distritos hay un muy mayor numero de camaras sobre las calles y sobre las plazas, siendo las restantes casi imperseptibles.
+En todos los distritos, las cámaras se distribuyen principalmente en calles y plazas, siendo escasas en otras áreas.
