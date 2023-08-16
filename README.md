@@ -9,7 +9,7 @@ El proyecto se enfoca en el análisis de dos conjuntos de datos relacionados con
 
 ### Estructura de directorios y archivos resultantes
 
-    **indice de accidentalidad y registro en 2022 - Madrid**
+    indice de accidentalidad y registro en 2022 - Madrid
         │
         ├── datos
         │   ├── procesados          <-CSV proesados.
@@ -34,6 +34,7 @@ El proyecto se enfoca en el análisis de dos conjuntos de datos relacionados con
 - **Decisión Inteligente de Ubicaciones para Cámaras basada en Datos de Calles y Barrios:** Se emplean datos de calles, tráfico y accidentes para tomar decisiones informadas sobre ubicaciones de cámaras. Considerando densidad de tráfico e incidentes en distintos barrios, se optimiza la prevención de accidentes en la ciudad.
 
 ### Tecnologías utilizadas:
+- Tableau
 - Python
   - Numpy
   - Pandas
