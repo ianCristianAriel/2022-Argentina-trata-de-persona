@@ -9,18 +9,21 @@ El proyecto se enfoca en el análisis de dos conjuntos de datos relacionados con
 
 ### Estructura de directorios y archivos resultantes
 
-    Proyecto finalizacion - G3
+    **indice de accidentalidad y registro en 2022 - Madrid**
+        │
         ├── datos
-        │   ├── procesados      <-CSV proesados.
-        │   └── brutos           <- CSV originales.
+        │   ├── procesados          <-CSV proesados.
+        │   └── brutos              <- CSV originales.
         │
-        ├── notebooks          <- Notebooks fraccionados por etapa del proyecto.
+        ├── notebooks           <- Notebooks fraccionados por etapa del proyecto.
         |
-        ├── .gitignore         <- Arhivos para ignorar por `git`.
+        ├── .gitignore          <- Arhivos para ignorar por `git`.
         │
-        ├── requerimientos.txt    <- Paquetes y dependencias.
+        ├── requerimientos.txt  <- Paquetes y dependencias.
+        │   
+        │── informe.md          <- insights.
         │
-        └── README.md          <- Detalles por escrito.
+        └── README.md           <- Detalles por escrito.
 
 ### Funciones y aplicaciones:
 
