@@ -1,0 +1,557 @@
+﻿nro_registro_interno,fecha_ingreso_consulta,tema,subtema,referido_tipo,nacionalidad,provincia,localidad,genero,edad_aparente,embarazada,discapacidad,provincia_indec_id
+1584554505,2020-01-01,Trata,Persona desaparecida,Victima indirecta - familiar,Argentina,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,Mujer,25,No,,02
+1584554505,2020-01-01,Trata,Persona desaparecida,Victima directa,Argentina,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,Hombre,,No,,02
+4584554505,2020-01-02,Relaciones de familia,Deberes de responsabilidad parental o familiar,Victima directa,Argentina,Jujuy,,Mujer,,No,,38
+3505554505,2020-01-04,Víctima de delito,Contra la integridad sexual: abuso sexual de adultos/as o niños/as,Victima directa,,,,Mujer,,No,,
+4515554505,2020-01-06,Trata,"Posible captación, abuso sexual",Victima directa,Argentina,Buenos Aires,Hurlingham,Mujer,,No,,06
+4515554505,2020-01-06,Trata,"Posible captación, abuso sexual",Acusado,Argentina,Buenos Aires,Hurlingham,Hombre,,No,,06
+5555554505,2020-01-11,Víctima de delito,"Contra la libertad: privación de la libertad, amenazas, sustracción de identidad o posible desaparición de persona",Acusado,Argentina,Buenos Aires,La Union,Mujer,50,No,,06
+7555554505,2020-01-11,Víctima de delito,"Contra la integridad sexual: corrupción de menores, prostitución infantil, pornografía, explotación sexual de niñas/os o adolescentes,  grooming, contra la libertad: trata de personas con fines de explotación sexual o laboral",Victima directa,Argentina,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,Mujer,39,No,,02
+2575554505,2020-01-13,Trata,Persona desaparecida,Victima directa,Argentina,,,Mujer,22,No,,
+2575554505,2020-01-13,Trata,Persona desaparecida,Victima directa,Argentina,,,Mujer,22,No,,
+4565554505,2020-01-13,Salud,Salud mental,Victima directa,,,,Mujer,,No,,
+1505654505,2020-01-16,Violencia de género,"Económica, psicológica",Victima directa,Argentina,Buenos Aires,Buenos Aires,Mujer,,No,,06
+1505654505,2020-01-16,Violencia de género,"Económica, psicológica",Victima directa,,Buenos Aires,Buenos Aires,Hombre,,No,,06
+4594654505,2020-01-16,Violencia de género,Psicológica,Acusado,,Santa Fe,Santa Fe,Hombre,,No,,82
+4594654505,2020-01-16,Violencia de género,Psicológica,Victima directa,,Santa Fe,Santa Fe,Mujer,,No,,82
+7594654505,2020-01-16,Relaciones de familia,Violencia intrafamiliar,Victima directa,,Tucumán,San Miguel de Tucumán,Mujer,,No,,90
+7505654505,2020-01-17,Trata,Persona desaparecida,Victima directa,,,,Mujer,,No,,
+9415654505,2020-01-17,Relaciones de familia,"Cuidado personal, régimen comunicacional o custodia legal, deberes de responsabilidad parental o familiar, protección de niños, niñas y adolescentes en desamparo",Victima directa,Argentina,,,Hombre,,No,,
+9415654505,2020-01-17,Relaciones de familia,"Cuidado personal, régimen comunicacional o custodia legal, deberes de responsabilidad parental o familiar, protección de niños, niñas y adolescentes en desamparo",Victima directa,Argentina,,,Mujer,,No,,
+6515654505,2020-01-18,Trata,Persona desaparecida,Victima directa,,Entre Ríos,Concordia,Mujer,,No,,30
+6515654505,2020-01-18,Trata,Persona desaparecida,Acusado,,Entre Ríos,Concordia,Hombre,,No,,30
+3525654505,2020-01-20,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,San Martín,Mujer,,No,,06
+3525654505,2020-01-20,Trata,Persona desaparecida,Victima indirecta - familiar,,Buenos Aires,San Martín,Mujer,,No,,06
+5555654505,2020-01-23,Trata,Abuso sexual infantil,Victima directa,,,,Mujer,,No,,
+9475654505,2020-01-24,Relaciones de familia,"Deberes de responsabilidad parental o familiar, protección de niños, niñas y adolescentes en desamparo, violencia intrafamiliar",Acusado,Argentina,Corrientes,Corrientes,Mujer,,No,,18
+9475654505,2020-01-24,Relaciones de familia,"Deberes de responsabilidad parental o familiar, protección de niños, niñas y adolescentes en desamparo, violencia intrafamiliar",Victima directa,Argentina,Corrientes,Corrientes,Hombre,,No,,18
+9475654505,2020-01-24,Relaciones de familia,"Deberes de responsabilidad parental o familiar, protección de niños, niñas y adolescentes en desamparo, violencia intrafamiliar",Victima directa,Argentina,Corrientes,Corrientes,Hombre,,No,,18
+9484754505,2020-01-25,Seguridad social (protección social),Acceso a prestaciones sociales de emergencia o ante situaciones críticas,Victima directa,,Mendoza,Mendoza,Mujer,,No,,50
+2505754505,2020-01-28,Víctima de delito,"Contra la propiedad: fraude, estafa , extorsión, usurpación o daños",Victima directa,,,,Mujer,,No,,
+5515754505,2020-01-30,Trata,Explotación sexual,Acusado,Argentina,,,Mujer,,No,,
+8425754505,2020-01-30,Trata,Abuso sexual infantil,Victima directa,,Buenos Aires,Ezpeleta Oeste,Mujer,,No,,06
+5525754505,2020-02-01,Víctima de delito,Venta de estupefacientes,Acusado,,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,,,No,,02
+2545754505,2020-02-02,Trata,"Explotación sexual, persona desaparecida, problemas de salud mental",Victima directa,,Buenos Aires,José C. Paz,Mujer,,No,,06
+2545754505,2020-02-02,Trata,"Explotación sexual, persona desaparecida, problemas de salud mental",Victima indirecta - familiar,,Buenos Aires,José C. Paz,Hombre,,No,,06
+7535754505,2020-02-02,Violencia de género,Psicológica,Victima directa,Argentina,Buenos Aires,Caseros,Mujer,42,No,No,06
+7535754505,2020-02-02,Violencia de género,Psicológica,Acusado,Argentina,,,Hombre,,No,No,
+3555754505,2020-02-04,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,,,,Mujer,,No,,
+3555754505,2020-02-04,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,,Buenos Aires,Burzaco,Mujer,,No,,06
+1565754505,2020-02-05,Trata,Adultos mayores,Victima directa,,,,Mujer,,No,,
+575754505,2020-02-06,Salud,Salud mental,Acusado,,Formosa,Clorinda,Mujer,,No,,34
+7584845505,2020-02-08,Trata,Explotación sexual,Victima directa,,Santa Fe,Santa Fe,Mujer,,No,,82
+3525845505,2020-02-13,Trata,Explotación sexual,Victima directa,,Corrientes,Corrientes,Mujer,,No,,18
+1535845505,2020-02-14,Trata,Publicidad de oferta sexual,Victima directa,Argentina,Buenos Aires,La Plata,Mujer,,No,,06
+5545845505,2020-02-15,Trata,Abuso sexual infantil,Victima directa,Argentina,Corrientes,Esquina,Mujer,,No,,18
+1555845505,2020-02-16,Trata,Persona desaparecida,Acusado,,Buenos Aires,El Jagüel,Mujer,,No,No,06
+1555845505,2020-02-16,Trata,Persona desaparecida,Victima indirecta - familiar,Paraguay,Buenos Aires,El Jagüel,Mujer,,No,No,06
+1565845505,2020-02-17,Trata,Persona desaparecida,Victima directa,Argentina,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,Mujer,35,No,,02
+1565845505,2020-02-17,Trata,Persona desaparecida,Victima directa,,,,Hombre,,No,,
+7594945505,2020-02-22,Trata,Persona desaparecida,Victima directa,,Buenos Aires,Los Hornos,Mujer,,No,,06
+9425945505,2020-02-25,Trata,Persona desaparecida,Victima directa,,Buenos Aires,Villa Lynch,Mujer,74,No,,06
+1535945505,2020-02-26,Trata,Explotación sexual,Victima directa,Paraguay,,,Mujer,,No,,
+3525945505,2020-02-26,Trata,Posible captación,Victima directa,,Córdoba,Córdoba,Mujer,,No,,14
+5525945505,2020-02-26,Trata,Persona internada en guardia de hospital,Victima directa,Haiti,,,Mujer,,No,No,
+3555945505,2020-02-28,Trata,Maltrato infantil,Acusado,,Santa Fe,Rosario,Mujer,,No,,82
+8475945505,2020-03-01,Trata,Salud mental,Victima directa,,Buenos Aires,José C. Paz,Mujer,,No,,06
+8475945505,2020-03-01,Trata,Salud mental,Acusado,Argentina,,,Hombre,,No,No,
+1594055505,2020-03-04,Trata,Explotación sexual,Acusado,,,,Mujer,,No,,
+1594055505,2020-03-04,Trata,Explotación sexual,Acusado,Bolivia,Buenos Aires,Del Viso,Hombre,,No,,06
+1594055505,2020-03-04,Trata,Explotación sexual,Victima directa,,,,Mujer,,No,,
+1594055505,2020-03-04,Trata,Explotación sexual,Victima directa,,,,Mujer,,No,,
+3594055505,2020-03-04,Trata,Explotación sexual,Victima directa,Argentina,,,Mujer,,No,No,
+8494055505,2020-03-04,Trata,Venta de niños y otros delitos,Victima directa,,,,Mujer,,No,,
+8494055505,2020-03-04,Trata,Venta de niños y otros delitos,Victima directa,,,,Mujer,,No,,
+1515055505,2020-03-05,Trata,Persona desaparecida,Victima directa,Argentina,,,Mujer,,No,No,
+9435055505,2020-03-07,Trata,Explotación sexual,Victima directa,,Misiones,MISIONES,Mujer,,No,,54
+9435055505,2020-03-07,Trata,Explotación sexual,Victima directa,,,,Mujer,,No,,
+2575055505,2020-03-10,Abuso sexual infantil,Abuso sexual infantil,Acusado,,Buenos Aires,Buenos Aires,Mujer,,No,,06
+565055505,2020-03-10,Trata,Explotación sexual,Victima directa,Paraguay,Buenos Aires,José León Suárez,Mujer,,No,,06
+2515255505,2020-03-24,Salud,Covid-19,Acusado,,Buenos Aires,Saladillo,Hombre,40,No,,06
+4535255505,2020-03-28,Trata,Persona desaparecida,Victima directa,,,,Mujer,,No,,
+4535255505,2020-03-28,Trata,Persona desaparecida,Victima directa,,,,Mujer,,No,,
+2515355505,2020-04-07,Salud,Salud mental,Acusado,,,,Hombre,,No,,
+2515355505,2020-04-07,Salud,Salud mental,Victima directa,,,,Hombre,50,No,,
+4545455505,2020-04-21,Trata,Violencia de género,Victima directa,,Buenos Aires,almirante brown,Mujer,,No,,06
+8455455505,2020-04-22,Trata,Violencia de género,Acusado,,,,Hombre,,No,,
+2555455505,2020-04-23,Salud,Vacunación antigripal,Victima indirecta - familiar,Argentina,Buenos Aires,San Clemente del Tuyu,Mujer,64,No,Si,06
+7535555505,2020-04-30,Trata,Explotación sexual,Victima directa,,,,Mujer,43,No,,
+4545555505,2020-05-01,Salud,Covid 19,Victima directa,,,,Hombre,,No,,
+8455555505,2020-05-02,Salud,Salud mental,Victima directa,,,,Mujer,,No,,
+565555505,2020-05-03,Trata,"Explotación sexual niñas, niños y adolescentes, violencia de género",Victima directa,Argentina,Buenos Aires,Villa zabaleta,Mujer,16,No,,06
+8484655505,2020-05-05,Trata,"Posible captación, adicciones, covid-19",Victima directa,Argentina,,,Mujer,24,No,Si,
+8484655505,2020-05-05,Trata,"Posible captación, adicciones, covid-19",Acusado,Argentina,Buenos Aires,Buenos Aires CAPITAL FEDERAL,Hombre,,No,,06
+6584655505,2020-05-06,Relaciones de familia,Violencia intrafamiliar,Acusado,Argentina,Catamarca,San Antonio,Hombre,30,No,,10
+6584655505,2020-05-06,Relaciones de familia,Violencia intrafamiliar,Victima directa,Argentina,Catamarca,San Antonio,Mujer,,No,,10
+6584655505,2020-05-06,Relaciones de familia,Violencia intrafamiliar,Victima directa,Argentina,Catamarca,San Antonio,Mujer,8,No,,10
+5594655505,2020-05-08,Trata,Maltrato adultos mayores,Victima directa,,Mendoza,Maipú,Hombre,,No,,50
+6594655505,2020-05-09,Relaciones de familia,Violencia intrafamiliar,Victima directa,,Misiones,Campo Grande,Mujer,,No,,54
+4505655505,2020-05-10,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,González Catán,Mujer,19,No,,06
+6505655505,2020-05-10,Violencia de género,Física,Victima directa,Argentina,Buenos Aires,González Catán,Mujer,,No,,06
+2555655505,2020-05-14,Trata,Salud mental,Victima directa,,Buenos Aires,José C. Paz,Mujer,,No,,06
+2594755505,2020-05-19,Salud,Salud mental,Acusado,,,,Hombre,,No,,
+3505755505,2020-05-20,Violencia de género,"Física, psicológica",Victima directa,,Mendoza,guaymallen,Mujer,45,No,,50
+4505755505,2020-05-20,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,,Mujer,48,No,Si,06
+3525755505,2020-05-22,Trata,"Explotación laboral, posible captación",Victima directa,Argentina,,,Hombre,38,No,,
+4535755505,2020-05-24,Trata,Persona desaparecida,Victima directa,,,,Mujer,22,No,,
+7535755505,2020-05-24,Violencia de género,"Física, psicológica",Victima directa,Argentina,,,Mujer,26,No,,
+6575755505,2020-05-29,Violencia de género,"Económica, psicológica, simbólica",Acusado,Argentina,Mendoza,Maipú,Hombre,65,No,Si,50
+8484846505,2020-05-29,Trata,Incumplimiento de la cuarentena (covid-19),Acusado,Argentina,,,Mujer,,No,,
+8484846505,2020-05-29,Trata,Incumplimiento de la cuarentena (covid-19),Victima directa,Argentina,Córdoba,Córdoba,Mujer,90,No,,14
+9494846505,2020-05-31,Trata,No se determinó,Victima directa,,,,Mujer,36,No,,
+8405846505,2020-06-01,Relaciones de familia,Violencia intrafamiliar,Acusado,,,,Hombre,,No,,
+4505846505,2020-06-02,Relaciones de familia,Violencia intrafamiliar,Acusado,Argentina,Catamarca,San Antonio,Hombre,30,No,,10
+4505846505,2020-06-02,Relaciones de familia,Violencia intrafamiliar,Victima directa,Argentina,Catamarca,San Antonio,Mujer,,No,,10
+4505846505,2020-06-02,Relaciones de familia,Violencia intrafamiliar,Victima directa,Argentina,Catamarca,San Antonio,Mujer,8,No,,10
+1525846505,2020-06-05,Trata,Explotación sexual,Victima directa,Argentina,,,Mujer,29,No,,
+1525846505,2020-06-05,Trata,Explotación sexual,Victima indirecta - familiar,Argentina,Tierra del Fuego,Río Grande,Mujer,,No,,94
+6555846505,2020-06-09,Relaciones de familia,Violencia intrafamiliar,Acusado,Brasil,,,,,No,,
+1584946505,2020-06-13,Violencia de género,"Física, psicológica",Acusado,,,,Mujer,,No,,
+1584946505,2020-06-13,Violencia de género,"Física, psicológica",Victima directa,Argentina,Santa Fe,Rosario,Hombre,,No,,82
+7584946505,2020-06-14,Violencia de género,"Física, psicológica",Victima directa,Argentina,Buenos Aires,Ciudadela,Mujer,33,No,,06
+7584946505,2020-06-14,Violencia de género,"Física, psicológica",Acusado,Argentina,,,Hombre,40,No,,
+7584946505,2020-06-14,Violencia de género,"Física, psicológica",Victima indirecta - familiar,Argentina,,,Hombre,12,No,,
+7584946505,2020-06-14,Violencia de género,"Física, psicológica",Victima indirecta - familiar,Argentina,,,Mujer,9,No,,
+7584946505,2020-06-14,Violencia de género,"Física, psicológica",Victima indirecta - familiar,Argentina,,,Hombre,3,No,,
+6594946505,2020-06-16,Trata,Explotación sexual,Victima directa,,Buenos Aires,,Mujer,30,No,,06
+1545946505,2020-06-25,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,Argentina,Buenos Aires,Berazategui,Mujer,15,No,,06
+1545946505,2020-06-25,Trata,"Explotación sexual niñas, niños y adolescentes",Victima indirecta - familiar,Argentina,Buenos Aires,Berazategui,Mujer,,No,,06
+1565946505,2020-06-27,Salud,Salud mental,Acusado,,,,Hombre,,No,,
+3584056505,2020-07-01,Trata,Persona desaparecida,Victima directa,Argentina,,,Hombre,22,No,,
+9405056505,2020-07-03,Violencia de género,Física,Victima directa,,Buenos Aires,Boulogne,Mujer,,No,,06
+4515056505,2020-07-06,Relaciones de familia,Violencia intrafamiliar,Victima directa,,,,Mujer,,No,,
+6535056505,2020-07-10,Trata,Oferta laboral engañosa,Acusado,,,,Hombre,,No,,
+1545056505,2020-07-11,Víctima de delito,"Contra las personas : delitos contra la integridad física, contra la vida, lesiones, abuso de armas o abandono de personas",Acusado,,,,Hombre,,No,,
+5545056505,2020-07-14,Violencia de género,"Física, psicológica",Victima directa,Argentina,Buenos Aires,Chacabuco,Mujer,16,No,,06
+5545056505,2020-07-14,Violencia de género,"Física, psicológica",Acusado,Paraguay,Buenos Aires,San Miguel,Hombre,18,No,,06
+3565156505,2020-07-31,Violencia de género,Sexual,Victima directa,,,,Mujer,,No,,
+9494256505,2020-08-01,Trabajo,"Maltrato, discriminación, falta de respeto, acoso, hostigamiento o mobbing",Acusado,,,,,,No,,
+2505256505,2020-08-02,Violencia de género,Psicológica,Victima directa,,,,Mujer,,No,,
+5505256505,2020-08-02,Daños y responsabilidad civil,Incumplimientos de contratos,Acusado,Argentina,Buenos Aires,General Rodríguez,Mujer,,No,,06
+9405256505,2020-08-02,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,Gregorio de Laferrere,Hombre,23,No,No,06
+1525256505,2020-08-03,Trata,Explotación sexual,Acusado,,,,Hombre,,No,,
+6515256505,2020-08-03,Relaciones de familia,Falta de relación madre-hija,Victima directa,,Buenos Aires,,Mujer,,No,,06
+3535256505,2020-08-04,Trata,Grooming,Victima directa,,,,Mujer,,No,,
+1545256505,2020-08-05,Trata,"Explotación sexual, posible captación",Acusado,,Buenos Aires,Buenos Aires,Transgénero,35,No,,06
+7575256505,2020-08-07,Trata,Explotación sexual,Victima directa,Argentina,Neuquén,Neuquén,Hombre,,No,,58
+6584356505,2020-08-08,Violencia de género,Física,Victima directa,,Chaco,Resistencia,Mujer,,No,,22
+6584356505,2020-08-08,Violencia de género,Física,Acusado,,,,Hombre,,No,,
+4515356505,2020-08-11,Relaciones de familia,Deberes de responsabilidad parental o familiar,Victima directa,,Mendoza,General Alvear,Hombre,80,No,,50
+5515356505,2020-08-12,Trata,Explotación sexual,Victima directa,,,,Mujer,18,No,,
+7584556505,2020-08-20,Trata,Grooming,Victima directa,,Buenos Aires,San Isidro,Mujer,16,No,,06
+9405556505,2020-08-20,Relaciones de familia,Violencia intrafamiliar,Victima directa,,,,Mujer,,No,,
+7584656505,2020-08-24,Trata,Explotación sexual,Acusado,Argentina,,,Hombre,,No,,
+7584656505,2020-08-24,Trata,Explotación sexual,Acusado,,,,Hombre,,No,,
+3575656505,2020-08-27,Relaciones de familia,Deberes de responsabilidad parental o familiar,Acusado,,Tucumán,Ingenio Nueva Baviera,Mujer,,No,,90
+2525756505,2020-08-30,Relaciones de familia,Violencia intrafamiliar,Victima directa,Argentina,Buenos Aires,La Tablada,Mujer,15,No,,06
+535756505,2020-08-30,Relaciones de familia,Violencia intrafamiliar,Victima directa,,Tucumán,San Miguel de Tucumán,Hombre,63,No,,90
+1555756505,2020-08-31,Trata,Persona desaparecida,Victima directa,,Buenos Aires,José C. Paz,Hombre,,No,,06
+1555756505,2020-08-31,Trata,Persona desaparecida,Victima indirecta - familiar,,Buenos Aires,José C. Paz,Hombre,,No,,06
+1555756505,2020-08-31,Trata,Persona desaparecida,Victima indirecta - familiar,,Buenos Aires,José C. Paz,Mujer,,No,,06
+7545756505,2020-08-31,Trata,Persona desaparecida,Victima directa,Argentina,Misiones,Puerto Iguazú,Mujer,,No,,54
+7545756505,2020-08-31,Trata,Persona desaparecida,Acusado,Argentina,Misiones,Puerto Iguazú,Hombre,,No,,54
+2555947505,2020-09-09,Trata,Persona desaparecida,Victima directa,,,,Mujer,,No,,
+5535947505,2020-09-09,Víctima de delito,Violencia de género,Victima directa,,Jujuy,La Ovejería,Mujer,,No,,38
+4505057505,2020-09-12,Acceso a documentacion personal y certificaciones,Documentacion,Acusado,,,,Hombre,,No,,
+4535157505,2020-09-17,Violencia de género,Física,Acusado,,Buenos Aires,,Hombre,,No,,06
+8465157505,2020-09-19,Trata,Explotación sexual,Victima indirecta - familiar,,,,,,No,,
+5515257505,2020-09-22,Trata,Persona desaparecida,Victima directa,,Buenos Aires,Flores,Mujer,,No,,06
+6535257505,2020-09-23,Violencia de género,Psicológica,Acusado,,,,Hombre,,No,,
+8455257505,2020-09-23,Relaciones de familia,Violencia intrafamiliar,Victima directa,,Córdoba,Alta Gracia,Mujer,,No,,14
+3584357505,2020-09-25,Trata,Desaparición,Victima directa,Argentina,Buenos Aires,Caseros,Mujer,15,No,,06
+8455457505,2020-10-05,Relaciones de familia,"Protección de niños, niñas y adolescentes en desamparo",Acusado,,Buenos Aires,Mariano Acosta,Hombre,,No,,06
+8455457505,2020-10-05,Relaciones de familia,"Protección de niños, niñas y adolescentes en desamparo",Acusado,,Buenos Aires,Mariano Acosta,Mujer,,No,,06
+8455457505,2020-10-05,Relaciones de familia,"Protección de niños, niñas y adolescentes en desamparo",Victima directa,,Buenos Aires,Mariano Acosta,Mujer,,No,,06
+8455457505,2020-10-05,Relaciones de familia,"Protección de niños, niñas y adolescentes en desamparo",Victima directa,,Buenos Aires,Mariano Acosta,Hombre,,No,,06
+8455457505,2020-10-05,Relaciones de familia,"Protección de niños, niñas y adolescentes en desamparo",Victima directa,,Buenos Aires,Mariano Acosta,Mujer,,No,,06
+8455457505,2020-10-05,Relaciones de familia,"Protección de niños, niñas y adolescentes en desamparo",Victima directa,,Buenos Aires,Mariano Acosta,Mujer,,No,,06
+6584557505,2020-10-06,Trata,Posible captación,Victima directa,,,,Mujer,,No,,
+8445657505,2020-10-14,Trata,Explotación sexual,Victima directa,,,,Mujer,37,No,,
+8445657505,2020-10-14,Trata,Explotación sexual,Acusado,,,,Hombre,,No,,
+1584757505,2020-10-17,Violencia de género,Física,Acusado,,,,Hombre,,No,,
+7525757505,2020-10-19,Salud,Salud mental,Victima directa,,,,Mujer,,No,,
+5525948415,2020-11-01,Trata,Explotación sexual,Victima directa,Argentina,,,Mujer,,No,,
+2505058415,2020-11-04,Trata,Explotación sexual,Victima directa,Argentina,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,,,No,,02
+3594258415,2020-11-13,Relaciones de familia,Violencia intrafamiliar,Victima directa,Paraguay,Buenos Aires,Moreno,Hombre,,No,,06
+3594258415,2020-11-13,Relaciones de familia,Violencia intrafamiliar,Victima indirecta - familiar,Paraguay,Buenos Aires,Magdalena,Mujer,,No,,06
+555258415,2020-11-16,Trata,Consulta por situacion laboral.,Victima directa,Argentina,,,Mujer,19,No,,
+4584358415,2020-11-17,Trata,Persona desaparecida,Victima indirecta - familiar,Argentina,,,Mujer,35,No,,
+4584358415,2020-11-17,Trata,Persona desaparecida,Victima directa,Argentina,,,Mujer,14,No,,
+7565358415,2020-11-21,Trata,Amenzas a victima de trata de personas,Victima directa,,Buenos Aires,,Mujer,,No,,06
+7515458415,2020-11-24,Trata,Posible captación,Victima directa,,Buenos Aires,,Mujer,,No,,06
+7515458415,2020-11-24,Trata,Posible captación,Acusado,Chile,,,Hombre,,No,,
+3584558415,2020-11-27,Trata,Venta de niños y otros delitos,Acusado,,Santa Fe,Rosario,Mujer,,No,,82
+6584558415,2020-11-28,Trata,Persona desaparecida,Victima directa,,,,Hombre,,No,,
+7505558415,2020-11-29,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,Lanús Este,Mujer,,No,,06
+5545558415,2020-12-01,Relaciones de familia,"Protección de niños, niñas y adolescentes en desamparo",Victima directa,,Buenos Aires,Mariano Acosta,Hombre,,No,,06
+5545558415,2020-12-01,Relaciones de familia,"Protección de niños, niñas y adolescentes en desamparo",Victima directa,,Buenos Aires,Mariano Acosta,Mujer,,No,,06
+5545558415,2020-12-01,Relaciones de familia,"Protección de niños, niñas y adolescentes en desamparo",Victima directa,,Buenos Aires,Mariano Acosta,Mujer,,No,,06
+5545558415,2020-12-01,Relaciones de familia,"Protección de niños, niñas y adolescentes en desamparo",Victima directa,,Buenos Aires,Mariano Acosta,Hombre,,No,,06
+9455658415,2020-12-06,Trata,Persona desaparecida,Victima directa,,,,Mujer,,No,,
+1584758415,2020-12-07,Relaciones de familia,"Cuidado personal, régimen comunicacional o custodia legal",Acusado,,Buenos Aires,,Mujer,,No,,06
+1584758415,2020-12-07,Relaciones de familia,"Cuidado personal, régimen comunicacional o custodia legal",Victima directa,,,,Hombre,,No,,
+4565658415,2020-12-07,Relaciones de familia,Abandono del hogar,Acusado,,Salta,Salta,Hombre,,No,,66
+4575658415,2020-12-07,Justicia penal,Irregularidades en el proceso penal,Victima directa,,,,Mujer,,No,,
+8425849415,2020-12-14,Trata,Posible captación,Victima directa,,,,Mujer,23,No,,
+8425849415,2020-12-14,Trata,Posible captación,Acusado,,,,Hombre,30,No,,
+3555949415,2020-12-20,Trata,Explotación laboral,Acusado,Argentina,,,Hombre,0,No,,
+1505059415,2020-12-22,Trata,Posible captación,Victima directa,,,,Mujer,40,No,,
+1505059415,2020-12-22,Trata,Posible captación,Acusado,España,,,Hombre,50,No,,
+2505259415,2021-01-05,Trata,Persona desaparecida,Victima directa,,,,Mujer,27,No,,
+3505259415,2021-01-05,Violencia de género,Física,Victima directa,,Buenos Aires,Boulogne,Mujer,18,No,,06
+515259415,2021-01-05,Trata,Explotación sexual,Acusado,,,,Hombre,30,No,,
+3515259415,2021-01-06,Trata,Explotación laboral,Acusado,,,,Hombre,50,No,,
+8435259415,2021-01-06,Relaciones de familia,Violencia intrafamiliar,Acusado,,Buenos Aires,,,40,No,,06
+8435259415,2021-01-06,Relaciones de familia,Violencia intrafamiliar,Acusado,,,,,40,No,,
+8435259415,2021-01-06,Relaciones de familia,Violencia intrafamiliar,Victima directa,,,,,6,No,,
+555259415,2021-01-08,Violencia de género,Sexual,Victima directa,,Salta,Tartagal,Mujer,18,No,,66
+535359415,2021-01-12,Abuso sexual infantil,Abuso sexual infantil,Victima directa,,,,Mujer,13,No,,
+535359415,2021-01-12,Abuso sexual infantil,Abuso sexual infantil,Victima directa,,,,Mujer,15,No,,
+535359415,2021-01-12,Abuso sexual infantil,Abuso sexual infantil,Acusado,,,,Hombre,46,No,,
+535359415,2021-01-12,Abuso sexual infantil,Abuso sexual infantil,Victima indirecta - familiar,,,,Mujer,0,No,,
+5525459415,2021-01-15,Trata,Persona desaparecida,Victima directa,,Santa Fe,Granadero Baigorria,Mujer,70,No,,82
+5525459415,2021-01-15,Trata,Persona desaparecida,Victima directa,,Santa Fe,Granadero Baigorria,Mujer,40,No,,82
+9435559415,2021-01-20,Trata,Explotación laboral,Victima directa,,,,,22,No,,
+2525659415,2021-01-24,Trata,Persona desaparecida,Victima directa,Venezuela,,,Mujer,45,No,,
+525659415,2021-01-24,Violencia de género,Física,Victima directa,Argentina,,,Mujer,13,No,,
+8465659415,2021-01-26,Trata,Explotación sexual,Victima directa,,,,Mujer,0,No,,
+9465659415,2021-01-26,Relaciones de familia,Deberes de responsabilidad parental o familiar,Victima directa,,Mendoza,Maipú,Mujer,16,No,,50
+2594759415,2021-01-27,Trata,Persona desaparecida,Victima directa,Argentina,,,Mujer,12,No,,
+565759415,2021-01-29,Trata,Posible captación,Victima directa,,,,Mujer,38,No,,
+8475759415,2021-01-29,Trata,Explotación sexual,Acusado,,,,Mujer,60,No,,
+3505840515,2021-01-30,Violencia de género,Física,Victima directa,Argentina,Santa Fe,Rosario,Mujer,15,No,,82
+3505840515,2021-01-30,Violencia de género,Física,Acusado,,,,Mujer,41,No,,
+7505840515,2021-01-31,Víctima de delito,"Contra la libertad: privación de la libertad, amenazas, sustracción de identidad o posible desaparición de persona",Victima directa,Argentina,,,Mujer,40,No,,
+1515940515,2021-02-04,Víctima de delito,"Contra las personas : delitos contra la integridad física, contra la vida, lesiones, abuso de armas o abandono de personas",Victima directa,Argentina,,,Hombre,24,No,,
+5525940515,2021-02-05,Violencia de género,Sexual,Acusado,,Buenos Aires,Gobernador Costa,Hombre,57,No,,06
+5525940515,2021-02-05,Violencia de género,Sexual,Victima directa,,Buenos Aires,Gobernador Costa,Mujer,16,No,,06
+5555050515,2021-02-11,Trata,Venta de niños y otros delitos,Victima directa,,,,Mujer,21,No,,
+5555050515,2021-02-11,Trata,Venta de niños y otros delitos,Acusado,Brasil,,,Mujer,45,No,,
+8484150515,2021-02-12,Relaciones de familia,Violencia intrafamiliar,Victima directa,,Santa Fe,Rosario,Mujer,20,No,,82
+545350515,2021-02-23,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,Ciudadela,Hombre,38,No,Si,06
+8435750515,2021-03-11,Violencia de género,Física,Victima directa,,Buenos Aires,Villa Elvira,Mujer,15,No,,06
+4584941515,2021-03-17,Trata,Oferta laboral engañosa,Victima directa,,,,Mujer,18,No,,
+5584941515,2021-03-17,Trata,Posible captación,Victima directa,,,,Mujer,16,No,,
+8494941515,2021-03-17,Trata,Persona desaparecida,Victima directa,,,,Mujer,11,No,,
+545941515,2021-03-19,Trata,Explotación sexual,Victima directa,,,,Mujer,14,No,,
+3594051515,2021-03-21,Trata,Persona desaparecida,Victima directa,,,,Mujer,29,No,,
+4515351515,2021-04-02,Trata,Persona desaparecida,Victima directa,,,,Mujer,9,No,,
+4515351515,2021-04-02,Trata,Persona desaparecida,Victima directa,Argentina,,,Mujer,12,No,,
+7535351515,2021-04-03,Vivienda,Daños contra la propiedad,Acusado,,,,Mujer,40,No,,
+515551515,2021-04-09,Trabajo,Accidentes o enfermedades de trabajo,Victima directa,,,,Hombre,25,No,,
+5515551515,2021-04-10,Violencia de género,Física,Acusado,,,,Mujer,30,No,,
+1515651515,2021-04-13,Víctima de delito,"Contra las personas : delitos contra la integridad física, contra la vida, lesiones, abuso de armas o abandono de personas",Victima directa,,Buenos Aires,Tapiales,Hombre,51,No,,06
+5594651515,2021-04-13,Trata,Explotación sexual,Victima directa,,Buenos Aires,González Catán,Mujer,20,No,,06
+1555751515,2021-04-18,Trata,Persona desaparecida,Victima directa,Argentina,Buenos Aires,Castelar,Mujer,27,No,,06
+8494842515,2021-04-19,Violencia de género,Física,Victima directa,,,,Hombre,44,No,,
+7594942515,2021-04-23,Abuso sexual infantil,Abuso sexual infantil,Acusado,Argentina,,,Hombre,48,No,,
+9494942515,2021-04-23,Trata,Oferta laboral engañosa,Victima indirecta - familiar,,,,Hombre,0,No,,
+4584052515,2021-04-27,Trata,Explotación sexual,Victima directa,,,,Mujer,0,No,,
+1515052515,2021-04-28,Trata,Explotación sexual,Victima directa,,,,Mujer,30,No,,
+3505152515,2021-05-01,Violencia de género,Sexual,Victima directa,Argentina,,,Mujer,12,No,,
+4565152515,2021-05-04,Trata,Posible captación,Victima directa,,,,Mujer,17,No,,
+9425252515,2021-05-06,Violencia de género,Física,Victima directa,,,,Mujer,0,No,,
+7505352515,2021-05-09,Trata,Persona desaparecida,Victima directa,Argentina,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,Mujer,24,No,,02
+7575552515,2021-05-20,Violencia de género,Psicológica,Victima directa,Argentina,,,Mujer,25,No,,
+6575943515,2021-06-03,Trata,Persona desaparecida,Victima directa,,,,Mujer,18,No,,
+7575943515,2021-06-03,Violencia de género,Física,Victima directa,,,,Mujer,25,No,,
+7575943515,2021-06-03,Violencia de género,Física,Victima indirecta - familiar,,,,Mujer,60,No,,
+4594053515,2021-06-04,Relaciones de familia,Violencia intrafamiliar,Acusado,,,,,35,No,,
+8445053515,2021-06-05,Violencia de género,Psicológica,Acusado,Argentina,,,Mujer,56,No,,
+2555053515,2021-06-06,Trata,Persona desaparecida,Victima directa,,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,Mujer,17,No,,02
+8415153515,2021-06-08,Violencia de género,Física,Victima directa,Argentina,,,Mujer,39,No,,
+1594253515,2021-06-11,Violencia de género,Física,Acusado,,,,Mujer,60,No,,
+1535253515,2021-06-13,Violencia de género,Física,Acusado,,,,,0,No,,
+2565453515,2021-06-22,Violencia de género,Física,Victima directa,,,,Mujer,25,No,,
+2565453515,2021-06-22,Violencia de género,Física,Acusado,,,,Hombre,50,No,,
+555653515,2021-06-28,Violencia de género,Psicológica,Victima directa,,,,Mujer,18,No,,
+555653515,2021-06-28,Violencia de género,Psicológica,Acusado,,,,Hombre,19,No,,
+9475653515,2021-06-29,Víctima de delito,"Contra las personas : delitos contra la integridad física, contra la vida, lesiones, abuso de armas o abandono de personas",Victima directa,Argentina,Santiago del Estero,Santiago del Estero,Hombre,78,No,,86
+3515154515,2021-07-13,Trata,Persona desaparecida,Victima indirecta - familiar,,Buenos Aires,Burzaco,Mujer,50,No,,06
+3515154515,2021-07-13,Trata,Persona desaparecida,Victima directa,,,,Mujer,17,No,,
+8475754515,2021-08-06,Trata,Consulta judicialización,Victima directa,,,,Mujer,13,No,,
+3584945515,2021-08-09,Víctima de delito,"Contra la libertad: privación de la libertad, amenazas, sustracción de identidad o posible desaparición de persona",Victima directa,,,,,11,No,,
+4584055515,2021-08-13,Trata,Asistencia,Victima directa,,,,,35,No,,
+4505655515,2021-09-04,Trata,Persona desaparecida,Victima directa,,,,Mujer,63,No,,
+1565755515,2021-09-09,Trata,Persona desaparecida,Victima directa,,,,Hombre,13,No,,
+7584846515,2021-09-10,Trata,Persona desaparecida,Victima directa,,,,,24,No,,
+9445846515,2021-09-13,Trata,Explotación sexual,Victima directa,,,,Mujer,24,No,,
+1525156515,2021-09-23,Violencia de género,Sexual,Victima directa,,,,Mujer,17,No,,
+1525156515,2021-09-23,Violencia de género,Sexual,Acusado,Argentina,,,Mujer,35,No,,
+8415156515,2021-09-23,Trata,Salud mental,Acusado,Argentina,,,Hombre,70,No,,
+4584756515,2021-10-16,Trata,Explotación sexual,Victima directa,,,,Mujer,16,No,,
+4525756515,2021-10-17,Trata,Persona desaparecida,Victima directa,Argentina,,,Mujer,61,No,,
+4584947515,2021-10-22,Trata,Explotación laboral,Victima directa,,,,Hombre,42,No,,
+8425057515,2021-10-26,Violencia de género,Psicológica,Victima directa,,,,Mujer,43,No,,
+7555057515,2021-10-27,Trata,Explotación laboral,Victima directa,,,,Mujer,45,No,,
+5565057515,2021-10-28,Trata,Posible captación,Victima directa,,,,Mujer,21,No,,
+515257515,2021-11-02,Trata,Violencia de género,Victima directa,Argentina,,,Mujer,44,No,,
+515257515,2021-11-02,Trata,Violencia de género,Acusado,Argentina,,,Hombre,45,No,,
+1584357515,2021-11-04,Trata,No aplica,Victima directa,Argentina,Mendoza,San Martín,Mujer,60,No,,50
+1584357515,2021-11-04,Trata,No aplica,Victima directa,Argentina,Mendoza,San Martín,Hombre,60,No,,50
+1584357515,2021-11-04,Trata,No aplica,Victima directa,,,,Mujer,38,No,,
+1584357515,2021-11-04,Trata,No aplica,Victima directa,Argentina,Mendoza,San Martín,Mujer,36,No,,50
+7515457515,2021-11-09,Trata,Posible captación,Acusado,,,,,0,No,,
+7535457515,2021-11-09,Trata,Persona desaparecida,Victima directa,Argentina,,,Mujer,30,No,,
+9435457515,2021-11-09,Trata,Persona desaparecida,Victima directa,Argentina,,,Mujer,25,No,,
+7575457515,2021-11-10,Víctima de delito,Estafa y amenaza virtual,Acusado,,,,,0,No,,
+6515657515,2021-11-15,Trata,Persona desaparecida,Victima indirecta - familiar,,,,Mujer,39,No,,
+6515657515,2021-11-15,Trata,Persona desaparecida,Victima directa,,,,Mujer,13,No,,
+3545757515,2021-11-20,Salud,Salud mental,Victima directa,Argentina,,,Mujer,15,No,,
+5515848425,2021-11-22,Trata,Posible re captación,Victima directa,,,,Mujer,21,No,,
+3555948425,2021-11-29,Trata,Oferta laboral engañosa,Victima directa,,,,Mujer,19,No,,
+7545058425,2021-12-02,Trata,Consulta judicialización,Victima directa,,,,Mujer,36,No,,
+6545158425,2021-12-06,Violencias,Tercera edad,Victima directa,Argentina,,,Mujer,87,No,,
+6545158425,2021-12-06,Violencias,Tercera edad,Acusado,,,,Mujer,0,No,,
+525258425,2021-12-08,Trata,Explotación sexual,Victima directa,,,,Mujer,36,No,,
+9455258425,2021-12-09,Trata,Posible captación,Victima directa,,,,Mujer,27,No,,
+2584358425,2021-12-10,Trata,Posible captación,Victima directa,,,,Mujer,26,No,,
+8484458425,2021-12-14,Trata,Posible captación,Victima directa,,,,Hombre,21,No,,
+7575458425,2021-12-18,Trata,Explotación sexual,Victima directa,,,,Mujer,35,No,,
+7575458425,2021-12-18,Trata,Explotación sexual,Acusado,,,,Hombre,50,No,,
+1505658425,2021-12-21,Relaciones de familia,"Protección de niños, niñas y adolescentes en desamparo",Victima directa,Argentina,,,Mujer,5,No,,
+8415658425,2021-12-22,Trata,Persona desaparecida,Victima directa,Argentina,Santa Fe,Villa Gobernador Gálvez,Hombre,16,No,,82
+9415658425,2021-12-22,Trata,Posible captación,Victima directa,Argentina,,,Mujer,30,No,,
+9405849425,2021-12-31,Violencia de género,Física,Victima directa,Argentina,,,Mujer,0,No,,
+2545945505,2020-02-27,Trata,Posible captación,Acusado,,,,Hombre,,No,,
+1565945505,2020-02-29,Trata,Problemas de salud mental,Victima directa,Argentina,Río Negro,San Carlos de Bariloche,Hombre,20,No,,62
+3535055505,2020-03-07,Trata,Persona desaparecida,Victima directa,Argentina,,,Mujer,,No,No,
+3575055505,2020-03-10,Trata,Privacion de la libertad,Victima directa,,Chaco,Puerto Vilelas,Hombre,,No,,22
+3535155505,2020-03-17,Trata,Violencia familiar,Victima directa,Argentina,Santa Fe,Santa Fe,Hombre,27,No,,82
+5575255505,2020-04-04,Trata,Datos falsos,Victima directa,Venezuela,Buenos Aires,Paso del Rey,Mujer,32,No,,06
+5575255505,2020-04-04,Trata,Datos falsos,Acusado,,,,Hombre,,No,,
+4505355505,2020-04-06,Trata,Otro,Acusado,,Mendoza,General Alvear,Hombre,,No,,50
+1515355505,2020-04-07,Trata,Acoso,Acusado,,,,Hombre,,No,,
+3584455505,2020-04-16,Trata,Salud - vacunación antigripal,Victima indirecta - familiar,Argentina,Entre Ríos,Concordia,Mujer,70,No,,30
+8405455505,2020-04-17,Trata,Violencia familiar,Acusado,Peru,,,Mujer,30,No,,
+1505455505,2020-04-17,Trata,Maltrato infantil,Acusado,,Mendoza,Las Heras,Mujer,17,No,,50
+1505455505,2020-04-17,Trata,Maltrato infantil,Victima directa,,Mendoza,Las Heras,Mujer,1,No,,50
+1505455505,2020-04-17,Trata,Maltrato infantil,Victima indirecta - familiar,,,,Hombre,,No,,
+2535455505,2020-04-20,Trata,Persona desaparecida,Victima directa,,Tucumán,San Miguel de Tucumán,Mujer,,No,,90
+9445455505,2020-04-21,Trata,Violencia familiar,Victima indirecta - familiar,Argentina,,,Hombre,4,No,,
+9445455505,2020-04-21,Trata,Violencia familiar,Victima indirecta - familiar,Argentina,,,Hombre,2,No,,
+9455455505,2020-04-22,Trata,Violencia de género,Acusado,,,,Hombre,22,No,,
+1505555505,2020-04-27,Trata,Otro,Victima directa,,Mendoza,Maipú,Hombre,80,No,,50
+1505555505,2020-04-27,Trata,Otro,Acusado,,Mendoza,Maipú,Mujer,64,No,,50
+1505555505,2020-04-27,Trata,Otro,Acusado,,,,Mujer,20,No,,
+7525655505,2020-05-12,Trata,Otro,Victima directa,Argentina,,,Mujer,4,No,,
+7525655505,2020-05-12,Trata,Otro,Victima indirecta - familiar,Argentina,,,Hombre,26,No,,
+7525655505,2020-05-12,Trata,Otro,Acusado,Argentina,,,Hombre,47,No,,
+8405755505,2020-05-19,Trata,Explotación sexual,Victima directa,Paraguay,Buenos Aires,Olivos,Mujer,30,No,,06
+8405755505,2020-05-19,Trata,Explotación sexual,Acusado,,,,Mujer,,No,,
+9405755505,2020-05-20,Trata,Otro,Victima directa,,Salta,San Ramon de la Nueva Oran,,6,No,,66
+8415755505,2020-05-20,Trata,Otro,Victima directa,Argentina,Catamarca,San Antonio,Mujer,8,No,,10
+8415755505,2020-05-20,Trata,Otro,Victima directa,Argentina,Catamarca,San Antonio,Mujer,,No,,10
+8415755505,2020-05-20,Trata,Otro,Acusado,Argentina,Catamarca,San Antonio,Hombre,,No,,10
+9484846505,2020-05-29,Trata,Otro,Victima directa,,,,Hombre,11,No,,
+9484846505,2020-05-29,Trata,Otro,Victima directa,,,,Mujer,13,No,,
+9484846505,2020-05-29,Trata,Otro,Victima directa,,,,Hombre,10,No,,
+9484846505,2020-05-29,Trata,Otro,Acusado,,,,Hombre,,No,,
+9484846505,2020-05-29,Trata,Otro,Victima indirecta - familiar,,,,Mujer,,No,,
+8475846505,2020-06-10,Trata,Explotación laboral,Victima directa,,Misiones,,Hombre,28,No,,54
+8475846505,2020-06-10,Trata,Explotación laboral,Acusado,,,,Hombre,,No,,
+6575846505,2020-06-11,Trata,Explotación sexual,Victima indirecta - familiar,,Córdoba,Cruz de Caña,Hombre,,No,,14
+6575846505,2020-06-11,Trata,Explotación sexual,Victima indirecta - familiar,,Córdoba,Cruz de Caña,Mujer,,No,,14
+8405056505,2020-07-03,Trata,Explotación sexual,Victima directa,,Buenos Aires,Boulogne,Mujer,,No,,06
+8405056505,2020-07-03,Trata,Explotación sexual,Victima indirecta - familiar,,,,Mujer,,No,,
+8405056505,2020-07-03,Trata,Explotación sexual,Victima indirecta - familiar,,Buenos Aires,,Mujer,,No,,06
+505256505,2020-08-02,Trata,Oferta laboral engañosa,Victima directa,Venezuela,,,Hombre,,No,,
+505256505,2020-08-02,Trata,Oferta laboral engañosa,Acusado,Argentina,Río Negro,Las Grutas,Hombre,,No,,62
+5535256505,2020-08-04,Trata,Explotación sexual,Victima directa,,Buenos Aires,Lomas de Zamora,Mujer,16,No,,06
+5535256505,2020-08-04,Trata,Explotación sexual,Acusado,,Buenos Aires,Lomas de Zamora,Hombre,33,No,,06
+9405756505,2020-08-29,Trata,Explotación sexual,Acusado,,,,Mujer,,No,,
+1525057505,2020-09-12,Trata,Otro,Acusado,,Buenos Aires,Udaondo,Hombre,,No,,06
+555057505,2020-09-14,Trata,Persona desaparecida,Victima directa,,Tucumán,San Miguel de Tucumán,Mujer,,No,,90
+1575157505,2020-09-19,Trata,Otro,Victima directa,,Córdoba,Alta Gracia,Mujer,,No,,14
+1575157505,2020-09-19,Trata,Otro,Acusado,,Córdoba,Alta Gracia,Hombre,,No,,14
+1575157505,2020-09-19,Trata,Otro,Acusado,,Córdoba,Alta Gracia,Mujer,,No,,14
+4555657505,2020-10-15,Trata,Persona desaparecida,Victima directa,Argentina,,,Mujer,14,No,,
+8465948415,2020-11-02,Trata,Otro,Acusado,,Santiago del Estero,Añatuya,Mujer,,No,,86
+8465948415,2020-11-02,Trata,Otro,Acusado,,Santiago del Estero,Añatuya,Hombre,,No,,86
+8465948415,2020-11-02,Trata,Otro,Victima directa,,,,Mujer,,No,,
+1505158415,2020-11-09,Trata,Otro,Victima directa,,Santiago del Estero,Santiago del Estero,Mujer,,No,,86
+1505158415,2020-11-09,Trata,Otro,Acusado,,Santiago del Estero,Santiago del Estero,Mujer,,No,,86
+3594159415,2020-12-28,Trata,Ciberdelito,Acusado,,Buenos Aires,EL THOMPSON,Hombre,40,No,,06
+5505259415,2021-01-05,Trata,Grooming,Victima directa,Argentina,Buenos Aires,Ituzaingó,Mujer,9,No,,06
+5505259415,2021-01-05,Trata,Grooming,Victima indirecta - familiar,Argentina,Buenos Aires,San Antonio de Padua,Hombre,31,No,,06
+5525259415,2021-01-06,Trata,Otro,Acusado,,Santa Fe,Rosario,,0,No,,82
+8425459415,2021-01-15,Trata,Sin especificar,Victima directa,,,,Mujer,38,No,,
+8425459415,2021-01-15,Trata,Sin especificar,Victima directa,,,,Hombre,17,No,,
+8425459415,2021-01-15,Trata,Sin especificar,Victima directa,,,,Hombre,9,No,,
+8425459415,2021-01-15,Trata,Sin especificar,Acusado,,,,Hombre,0,No,,
+6535841515,2021-03-15,Trata,Persona desaparecida,Victima directa,,Buenos Aires,,Hombre,28,No,,06
+4555842515,2021-04-22,Trata,Adultos mayores,Victima directa,,,,Mujer,80,No,,
+4515052515,2021-04-28,Trata,Explotación sexual,Victima directa,,,,Mujer,25,No,,
+9465252515,2021-05-07,Trata,"Explotación sexual niñas, niños y adolescentes",Victima directa,,Buenos Aires,Villa Elvira,Mujer,15,No,,06
+2594352515,2021-05-08,Trata,Otro,Victima directa,,Santa Fe,Santa Fe,Mujer,12,No,,82
+525845515,2021-08-07,Trata,Explotación sexual,Victima directa,,,,Mujer,30,No,,
+4545845515,2021-08-08,Trata,Persona desaparecida,Victima directa,,Buenos Aires,Ricardo Rojas,Mujer,15,No,,06
+4545845515,2021-08-08,Trata,Persona desaparecida,Acusado,,Buenos Aires,General Pacheco,Hombre,24,No,,06
+584155515,2021-08-17,Trata,Grooming,Acusado,Ecuador,,,,55,No,,
+9445357515,2021-11-06,Trata,Posible abuso sexual,Acusado,Argentina,,,Mujer,65,No,,
+2555949425,2022-01-05,Violencia de género,Física,Víctima directa,,Catamarca,,Varón cis,76,No,,10
+4535059425,2022-01-08,Relaciones de familia (ex legal familia),Otro (relaciones de familia),Víctima indirecta - familiar,Argentina,Buenos Aires,Benavidez,Mujer cis,53,No,,06
+584159425,2022-01-09,Otro,Acoso,Víctima directa,Peru,,guaymallen,Mujer cis,0,No,,
+4584159425,2022-01-10,Trata,Persona desaparecida,Víctima directa,Bolivia,Buenos Aires,Sierra de los Padres,Mujer cis,16,No,,06
+4584159425,2022-01-10,Trata,Persona desaparecida,Víctima directa,,Buenos Aires,Sierra de los Padres,Mujer cis,15,No,,06
+515259425,2022-01-15,Trata,"Explotación sexual niñas, niños y adolescentes",Víctima directa,,San Luis,Villa Mercedes,Mujer,15,No,,74
+4535059425,2022-01-08,Relaciones de familia (ex legal familia),Otro (relaciones de familia),Víctima directa,Argentina,Buenos Aires,,Mujer cis,0,No,,06
+9405659425,2022-01-28,Violencias,Sexual,Víctima directa,,Río Negro,,Mujer,14,No,,62
+525759425,2022-01-31,Trata,Persona desaparecida,Víctima directa,,Tucumán,San Miguel de Tucumán,Mujer cis,16,No,Sí,90
+8475840525,2022-02-07,Trata,Persona desaparecida,Víctima directa,,Ciudad Autónoma de Buenos Aires,,Mujer cis,18,No,,02
+3584940525,2022-02-09,Salud,"Consumo problemático, adicciones o alcoholismo",Víctima directa,,Ciudad Autónoma de Buenos Aires,Flores,Mujer,57,No,,02
+4584150525,2022-02-17,Trata,Persona desaparecida,Víctima directa,Argentina,Buenos Aires,,Varón cis,27,No,Sí,06
+8494150525,2022-02-17,Trata,Posible captación,Víctima directa,Argentina,Buenos Aires,,Mujer cis,19,No,,06
+9405150525,2022-02-18,Trata,Posible captación,Víctima directa,,Entre Ríos,,Mujer,40,No,,30
+545150525,2022-02-19,Trabajo (ex legal laboral),Empleadxs casas particulares,Acusado,,Ciudad Autónoma de Buenos Aires,,Mujer cis,70,No,,02
+545150525,2022-02-19,Trabajo (ex legal laboral),Empleadxs casas particulares,Víctima indirecta - familiar,,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,Mujer cis,102,No,,02
+545150525,2022-02-19,Trabajo (ex legal laboral),Empleadxs casas particulares,Acusado,,Ciudad Autónoma de Buenos Aires,,Varón cis,70,No,,02
+2555250525,2022-02-24,Trata,Posible captación,Víctima directa,,Buenos Aires,,Mujer cis,17,No,,06
+3565250525,2022-02-24,Trata,Persona desaparecida,Víctima directa,Argentina,Buenos Aires,,Mujer cis,12,No,,06
+4505550525,2022-03-08,Trata,Explotación sexual,Víctima directa,,Santa Fe,,Mujer cis,25,No,,82
+5555550525,2022-03-11,Trata,Explotación laboral,Víctima directa,,Buenos Aires,,Mujer cis,23,No,,06
+8455650525,2022-03-14,Trata,Traslado de personas,Víctima directa,,Buenos Aires,,Mujer cis,28,No,,06
+7594750525,2022-03-17,Trata,Persona desaparecida,Víctima directa,,,,Mujer,13,No,,
+3505750525,2022-03-17,Violencia de género,Psicológica,Víctima directa,Venezuela,,,Mujer,30,No,,
+8405841525,2022-03-21,Trata,Explotación sexual,Víctima indirecta - familiar,,Chubut,,Mujer cis,30,No,,26
+9415941525,2022-03-25,Trata,Persona desaparecida,Víctima directa,,Chaco,,Mujer,54,No,,22
+7584051525,2022-03-28,Trata,Persona desaparecida,Víctima directa,,Buenos Aires,,Mujer cis,16,No,,06
+7584251525,2022-04-04,Trata,Persona desaparecida,Víctima directa,,Buenos Aires,Virrey del Pino,Mujer cis,43,No,,06
+4565351525,2022-04-12,Trata,Adultos mayores,Víctima directa,,Buenos Aires,,Mujer,88,No,,06
+4565351525,2022-04-12,Trata,Adultos mayores,Acusado,,Buenos Aires,,Hombre,0,No,,06
+4565351525,2022-04-12,Trata,Adultos mayores,Acusado,,Buenos Aires,,Hombre,0,No,,06
+4565351525,2022-04-12,Trata,Adultos mayores,Acusado,,Buenos Aires,,Mujer,0,No,,06
+505751525,2022-04-27,Trata,Reducción a la servidumbre o situaciones análogas,Víctima directa,,Río Negro,,Mujer,30,No,,62
+8465842525,2022-05-03,Trata,Persona desaparecida,Víctima directa,Argentina,Ciudad Autónoma de Buenos Aires,,Mujer cis,15,No,,02
+565842525,2022-05-03,Trata,Violencia familiar,Víctima directa,Argentina,Córdoba,,Mujer cis,72,No,,14
+2584152525,2022-05-12,Trata,Persona desaparecida,Víctima directa,,Buenos Aires,,Mujer,12,No,,06
+5545152525,2022-05-14,Trabajo (ex legal laboral),Cuestiones salariales o de registración,Acusado,Argentina,Tucumán,Famaillá,Varón cis,57,No,,90
+545843525,2022-06-13,Trata,Persona desaparecida,Víctima directa,,Tucumán,Los Pocitos,Mujer cis,30,No,,90
+8494943525,2022-06-15,Trata,Persona desaparecida,Víctima directa,Argentina,Ciudad Autónoma de Buenos Aires,,Mujer cis,18,No,,02
+5555053525,2022-06-23,Relaciones de familia (ex legal familia),Protección de adultxs mayores,Víctima directa,,Santa Cruz,,Hombre,76,No,,78
+5555053525,2022-06-23,Relaciones de familia (ex legal familia),Protección de adultxs mayores,Acusado,,Santa Cruz,,Mujer,56,No,,78
+1535153525,2022-06-25,Otro,Otro,Víctima directa,Argentina,Buenos Aires,DOLORES,Mujer cis,35,No,,06
+6535253525,2022-06-29,Trata,Violencia intrafamiliar,Acusado,,Chaco,,Hombre,0,No,,22
+7584353525,2022-07-01,Trata,Desaparición,Víctima directa,,Buenos Aires,,Hombre,13,No,,06
+6535553525,2022-07-10,Violencia de género,Simbólica,Acusado,Argentina,Salta,Tartagal,Varón cis,52,No,,66
+555553525,2022-07-11,Trata,Persona desaparecida,Víctima directa,,Salta,,Mujer cis,7,No,,66
+584653525,2022-07-12,Trata,Posible captación,Víctima indirecta,Uruguay,,,Mujer cis,0,No,Sí,
+515753525,2022-07-18,Trata,Reducción a la servidumbre o situaciones análogas,Víctima directa,,La Rioja,,Mujer cis,18,No,,46
+1545753525,2022-07-19,Trata,No aplica,Acusado,,Salta,Salta,Mujer,43,No,,66
+4565753525,2022-07-19,Trata,Violencia familiar,Víctima directa,,Entre Ríos,,Hombre,50,No,,30
+2535944525,2022-07-27,Violencia de género,Económica,Acusado,,Córdoba,,Varón cis,40,No,,14
+3535944525,2022-07-27,Trata,Explotación sexual,Víctima directa,Argentina,Buenos Aires,,Mujer cis,30,No,Sí,06
+6584154525,2022-08-02,Relaciones de familia (ex legal familia),"Protección de niños, niñas y adolescentes en desamparo",Acusado,Argentina,Buenos Aires,,Mujer cis,31,No,,06
+6584154525,2022-08-02,Relaciones de familia (ex legal familia),"Protección de niños, niñas y adolescentes en desamparo",Víctima directa,Argentina,Buenos Aires,,Varón cis,8,No,,06
+6584154525,2022-08-02,Relaciones de familia (ex legal familia),"Protección de niños, niñas y adolescentes en desamparo",Víctima directa,Argentina,Buenos Aires,,Mujer cis,4,No,,06
+575254525,2022-08-09,Violencia de género,Física,Víctima directa,,Misiones,,Mujer,0,No,,54
+8484654525,2022-08-22,Trata,Persona desaparecida,Víctima directa,,Buenos Aires,,Hombre,24,No,,06
+1565654525,2022-08-25,Relaciones de familia (ex legal familia),"Protección de niños, niñas y adolescentes en desamparo",Acusado,Argentina,Chaco,,Mujer cis,25,No,,22
+2575845525,2022-09-03,Trata,Explotación sexual,Acusado,,Neuquén,,Mujer,35,No,,58
+2545945525,2022-09-06,Trata,Persona desaparecida,Víctima directa,,Ciudad Autónoma de Buenos Aires,,Mujer cis,12,No,,02
+4535055525,2022-09-09,Trata,No aplica,Acusado,,Buenos Aires,,Mujer cis,0,No,,06
+545055525,2022-09-09,Trata,Posible captación,Víctima directa,,Buenos Aires,,Hombre,45,No,,06
+2505155525,2022-09-12,Trata,Consulta por violencia de genero,Acusado,,Buenos Aires,,Varón cis,0,No,,06
+5535155525,2022-09-13,Víctima de delito (solo cenavid),"Contra las personas : delitos contra la integridad física, contra la vida, lesiones, abuso de armas o abandono de personas",Víctima directa,Argentina,Córdoba,,Mujer cis,30,No,,14
+5565155525,2022-09-15,Trata,Privación ilegítima de la libertad,Víctima directa,,Chaco,,Mujer,35,No,,22
+5565155525,2022-09-15,Trata,Privación ilegítima de la libertad,Acusado,,Chaco,,Mujer,0,No,,22
+1575155525,2022-09-15,Trata,Persona desaparecida,Víctima directa,Argentina,La Rioja,,Mujer cis,15,No,,46
+2594255525,2022-09-16,Salud,Salud mental,Acusado,,Buenos Aires,,Mujer cis,0,No,,06
+2594255525,2022-09-16,Salud,Salud mental,Acusado,Argentina,Buenos Aires,,Mujer cis,0,No,,06
+1535255525,2022-09-19,Trata,Persona desaparecida,Víctima directa,,,,Mujer,16,No,,
+575255525,2022-09-20,Otro,No aplica,Acusado,Egipto,Córdoba,Córdoba,Varón cis,30,No,,14
+6555355525,2022-09-23,Trata,Explotación sexual,Víctima directa,,Buenos Aires,,Mujer,0,No,,06
+9494555525,2022-09-28,Trata,Explotación sexual,Víctima directa,,Santa Fe,,Mujer,21,No,,82
+3555655525,2022-10-04,Trata,Oferta laboral engañosa,Víctima directa,Argentina,Buenos Aires,,Mujer cis,24,No,,06
+3555655525,2022-10-04,Trata,Oferta laboral engañosa,Víctima indirecta - familiar,,Buenos Aires,,Mujer cis,50,No,,06
+584056525,2022-10-18,Trata,Persona desaparecida,Víctima directa,,,,Varón cis,3,No,,
+584056525,2022-10-18,Trata,Persona desaparecida,Víctima directa,,,,Mujer cis,6,No,,
+4565056525,2022-10-22,Salud,Salud mental,Acusado,Argentina,Santa Fe,,Mujer,51,No,,82
+9475056525,2022-10-22,Trata,No aplica,Acusado,,Buenos Aires,,Mujer,45,No,,06
+9475056525,2022-10-22,Trata,No aplica,Acusado,,Buenos Aires,,Mujer,45,No,,06
+2515156525,2022-10-24,Trata,Persona desaparecida,Víctima directa,Argentina,Ciudad Autónoma de Buenos Aires,,Mujer cis,32,No,,02
+2505256525,2022-10-26,Trata,Desaparicion de personas,Víctima directa,,,,Mujer,0,No,,
+1535256525,2022-10-27,Trata,Persona desaparecida,Víctima directa,,Santa Fe,,Mujer cis,60,No,,82
+535356525,2022-10-31,Trata,Persona desaparecida,Acusado,,Chaco,,Mujer,0,No,,22
+8445456525,2022-11-03,Trata,Explotación sexual,Acusado,Argentina,Buenos Aires,Alberti,Varón cis,36,No,,06
+8445456525,2022-11-03,Trata,Explotación sexual,Acusado,,Buenos Aires,Alberti,Mujer cis,30,No,,06
+4555556525,2022-11-08,Violencias,Familiar > asesoramiento para realizar denuncia,Víctima directa,,Río Negro,,Mujer,27,No,,62
+3545756525,2022-11-15,Trata,Explotación sexual,Víctima directa,,Buenos Aires,,Mujer,32,No,,06
+3545756525,2022-11-15,Trata,Explotación sexual,Acusado,,Neuquén,,Hombre,0,No,,58
+3545756525,2022-11-15,Trata,Explotación sexual,Acusado,,,,Hombre,0,No,,
+3545756525,2022-11-15,Trata,Explotación sexual,Acusado,,,,Hombre,0,No,,
+5545257525,2022-12-10,Trabajo (ex legal laboral),"Maltrato, discriminación, falta de respeto, acoso, hostigamiento o mobbing",Acusado,,,,Varón cis,0,No,,
+3505357525,2022-12-12,Otro,Desaparición de persona,Víctima directa,,Buenos Aires,,Mujer cis,15,No,,06
+8435357525,2022-12-13,Salud,Salud mental,Acusado,,Santa Fe,,Hombre,55,No,,82
+8435457525,2022-12-17,Violencia de género,Económica,Víctima directa,,Jujuy,,Mujer cis,38,No,,38
+8435457525,2022-12-17,Violencia de género,Económica,Acusado,,Jujuy,San Salvador de Jujuy,Varón cis,40,No,,38
+8405557525,2022-12-19,Trata,Posible captación,Víctima directa,,Salta,,Mujer cis,15,No,,66
+9415557525,2022-12-20,Violencias,Familiar > asesoramiento para realizar denuncia,Acusado,,Neuquén,,Hombre,34,No,,58
+6545557525,2022-12-21,Trata,Persona desaparecida,Víctima directa,,Tucumán,,Mujer,27,No,,90
+2565657525,2022-12-26,Trata,Venta de niños y otros delitos,Víctima directa,,Buenos Aires,,Varón cis,1,No,,06
+2565657525,2022-12-26,Trata,Venta de niños y otros delitos,Víctima indirecta - familiar,Argentina,Buenos Aires,DOLORES,Mujer cis,0,No,,06
+9405848435,2022-12-31,Trata,Explotación sexual,Víctima directa,Paraguay,Buenos Aires,José León Suárez,Mujer cis,0,No,,06
+7515757525,2022-12-28,Trata,Explotación sexual,Víctima directa,,Buenos Aires,Moreno,Mujer cis,18,No,,06
+7515757525,2022-12-28,Trata,Explotación sexual,Acusado,,Buenos Aires,Baradero,Mujer cis,0,No,,06
+535948435,2023-01-06,Trata,Posible captación,Víctima directa,,,,Mujer,14,No,,
+555948435,2023-01-06,Trata,Persona desaparecida,Víctima directa,,,,Varón cis,11,No,,
+525058435,2023-01-09,Trabajo (ex legal laboral),"Maltrato, discriminación, falta de respeto, acoso, hostigamiento o mobbing",Acusado,,Río Negro,,Varón cis,0,No,,62
+5545058435,2023-01-10,Trata,Posible privación ilegítima de la libertad,Víctima directa,,Tucumán,,Mujer,21,No,,90
+5535158435,2023-01-13,Trata,Privacion ilegitima de la libertad,Víctima directa,,Tucumán,,Mujer,0,No,,90
+5525258435,2023-01-17,Otro,No aplica,Víctima directa,,Buenos Aires,,Mujer,0,No,,06
+6545358435,2023-01-21,Trata,Explotación laboral,Acusado,,,,Varón cis,0,No,,
+1575458435,2023-01-26,Salud,Salud mental,Acusado,,Neuquén,,Varón cis,53,No,,58
+3555558435,2023-01-30,Salud,Salud mental,Acusado,,Buenos Aires,,Varón cis,0,No,,06
+1545758435,2023-02-07,Trata,Persona desaparecida,Víctima directa,,Buenos Aires,,Mujer cis,23,No,,06
+2575758435,2023-02-08,Trata,Posible captación,Víctima directa,,Buenos Aires,,Mujer,19,No,,06
+6505059435,2023-02-17,Trata,Venta de niños y otros delitos,Víctima directa,,Santa Fe,,Mujer,21,No,,82
+6505059435,2023-02-17,Trata,Venta de niños y otros delitos,Acusado,,Santa Fe,,Hombre,0,No,,82
+1575359435,2023-03-04,Trata,Persona desaparecida,Víctima directa,,Buenos Aires,,Mujer cis,22,No,,06
+4565459435,2023-03-07,Otro,Narcotráfico,Víctima directa,Argentina,Buenos Aires,,Varón cis,17,No,,06
+9455659435,2023-03-13,Violencias,De género > denuncia ya realizada,Acusado,,Ciudad Autónoma de Buenos Aires,Buenos Aires,Varón cis,40,No,,02
+6565659435,2023-03-14,Trata,Posible captación,Víctima directa,,Ciudad Autónoma de Buenos Aires,,Mujer,24,No,,02
+5575659435,2023-03-15,Salud,Salud mental,Víctima directa,,Salta,,Mujer cis,22,No,,66
+515759435,2023-03-16,Acceso a documentacion personal y certificaciones,"Trámites de migraciones, radicaciones, ciudadanía o refugio",Víctima directa,,,,Mujer,22,No,,
+1525050535,2023-03-27,Salud,Salud mental,Víctima directa,,Salta,,Mujer,22,No,,66
+7505450535,2023-04-10,Trata,"Explotación sexual niñas, niños y adolescentes",Víctima directa,,Salta,,Mujer cis,0,No,,66
+7505450535,2023-04-10,Trata,"Explotación sexual niñas, niños y adolescentes",Víctima directa,,Salta,,Mujer cis,8,No,,66
+7505450535,2023-04-10,Trata,"Explotación sexual niñas, niños y adolescentes",Víctima directa,,Salta,,Mujer cis,11,No,,66
+7505450535,2023-04-10,Trata,"Explotación sexual niñas, niños y adolescentes",Víctima directa,,Salta,,Mujer cis,8,No,,66
+7505450535,2023-04-10,Trata,"Explotación sexual niñas, niños y adolescentes",Víctima directa,,Salta,,Mujer cis,4,No,,66
+7505450535,2023-04-10,Trata,"Explotación sexual niñas, niños y adolescentes",Víctima directa,,Salta,,Mujer cis,9,No,,66
+7505450535,2023-04-10,Trata,"Explotación sexual niñas, niños y adolescentes",Víctima directa,,Salta,,Varón cis,2,No,,66
+7505450535,2023-04-10,Trata,"Explotación sexual niñas, niños y adolescentes",Víctima directa,,Salta,,Mujer cis,6,No,,66
+7505450535,2023-04-10,Trata,"Explotación sexual niñas, niños y adolescentes",Víctima directa,,Salta,,Mujer cis,10,No,,66
+7505450535,2023-04-10,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,,Salta,,Mujer cis,0,No,,66
+7505450535,2023-04-10,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,,Salta,,Mujer cis,0,No,,66
+2515450535,2023-04-10,Trata,Consulta,Víctima directa,,Mendoza,,Mujer,0,No,,50
+3535650535,2023-04-18,Trata,Persona desaparecida,Víctima directa,,Ciudad Autónoma de Buenos Aires,Buenos Aires,Mujer,31,No,,02
+525941535,2023-04-28,Trata,"Explotación laboral niñas, niños y adolescentes",Víctima directa,,Santa Fe,,Mujer cis,13,No,,82
+525941535,2023-04-28,Trata,"Explotación laboral niñas, niños y adolescentes",Acusado,,Santa Fe,,Varón cis,0,No,,82
+1525941535,2023-04-28,Violencias,Familiar > asesoramiento para realizar denuncia,Acusado,,Chubut,,Varón cis,0,No,,26
+2525941535,2023-04-29,Salud,Salud mental,Acusado,,Córdoba,,Mujer cis,0,No,,14
+2525941535,2023-04-29,Salud,Salud mental,Acusado,,Córdoba,,Mujer cis,0,No,,14
+2525941535,2023-04-29,Salud,Salud mental,Acusado,,Córdoba,,Varón cis,0,No,,14
+535051535,2023-05-03,Trata,Consulta judicialización,Víctima directa,,Santa Fe,,Mujer,0,No,,82
+8484351535,2023-05-12,Trata,Reducción a la servidumbre o situaciones análogas,Víctima directa,Argentina,Santa Fe,Coronda,Mujer cis,16,No,,82
+1575551535,2023-05-24,Trata,Explotación laboral,Víctima directa,,,,Hombre,0,No,,
+1575551535,2023-05-24,Trata,Explotación laboral,Acusado,,,,Hombre,0,No,,
+8475942535,2023-06-09,Trata,"Explotación sexual niñas, niños y adolescentes",Víctima directa,,Buenos Aires,,Hombre,5,No,,06
+3505052535,2023-06-11,Salud,Salud mental,Acusado,,Tucumán,,Varón cis,0,No,,90
+6584152535,2023-06-15,Trata,Persona desaparecida,Víctima directa,,Buenos Aires,Don Torcuato,Mujer,0,No,,06
+4515152535,2023-06-17,Trata,Persona desaparecida,Víctima directa,,Ciudad Autónoma de Buenos Aires,,Mujer cis,28,No,,02
+4515152535,2023-06-17,Trata,Persona desaparecida,Acusado,,Buenos Aires,,Varón cis,30,No,,06
+8435352535,2023-06-26,Trata,Explotación sexual,Víctima directa,Paraguay,Buenos Aires,,Mujer cis,31,No,,06
+5535352535,2023-06-26,Trata,Persona desaparecida,Víctima directa,Argentina,Buenos Aires,,Mujer cis,16,No,,06
+7575452535,2023-07-02,Trata,Persona desaparecida,Víctima directa,Argentina,Corrientes,,Mujer cis,53,No,,18
+8484652535,2023-07-07,Trata,Reducción a la servidumbre o situaciones análogas,Acusado,Argentina,Buenos Aires,,Varón cis,0,No,,06
+1525652535,2023-07-09,Trata,"Explotación sexual niñas, niños y adolescentes",Acusado,,,,Mujer cis,0,No,,
+515752535,2023-07-13,Trata,Explotación sexual,Acusado,,Ciudad Autónoma de Buenos Aires,,Hombre,40,No,,02
+7575943535,2023-07-23,Trata,Explotación sexual,Víctima directa,,Entre Ríos,,Hombre,0,No,,30
+4575943535,2023-07-23,Violencias,Familiar > denuncia ya realizada,Acusado,,Córdoba,OLIVA,Varón cis,66,No,,14
+4575943535,2023-07-23,Violencias,Familiar > denuncia ya realizada,Acusado,,Córdoba,Oliva,Varón cis,70,No,,14
+515053535,2023-07-24,Trata,"Explotación sexual niñas, niños y adolescentes",Víctima directa,,Salta,,Hombre,15,No,,66
+3525053535,2023-07-25,Trata,Reducción a la servidumbre o situaciones análogas,Víctima directa,,,,Hombre,29,No,,
+4584153535,2023-07-28,Trata,Persona desaparecida,Víctima directa,,Ciudad Autónoma de Buenos Aires,,Mujer,24,No,,02
+1594153535,2023-07-28,Trata,Persona desaparecida,Víctima directa,,Ciudad Autónoma de Buenos Aires,,Mujer,23,No,,02
+3575153535,2023-07-31,Trata,Explotación sexual,Víctima directa,,Mendoza,,Mujer cis,0,No,,50

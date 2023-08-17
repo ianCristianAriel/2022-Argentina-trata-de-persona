@@ -1,8 +1,9 @@
 # Prevención de accidentes automovilisticos 
 
 ## Descripción
+La trata de personas, un delito atroz que socava los cimientos de comunidades a nivel global, implica la flagrante violación de los derechos humanos fundamentales al explotar a individuos vulnerables con propósitos de explotación laboral, sexual y otras formas de abuso. En el específico contexto de Argentina, este fenómeno ha cobrado una preocupante relevancia, captando la atención tanto de las autoridades como de las organizaciones no gubernamentales y la sociedad en su conjunto.
 
-El proyecto se enfoca en el análisis de dos conjuntos de datos relacionados con la ciudad de Madrid. El primero comprende registros de accidentes automovilísticos, mientras que el segundo abarca información sobre las cámaras ubicadas en la ciudad. El objetivo principal de esta investigación es derivar medidas preventivas efectivas con el propósito de reducir significativamente el índice de accidentes en la localidad.
+Este proyecto académico se propone llevar a cabo un análisis exhaustivo de la trata de personas en Argentina en el período que abarca desde 2019 hasta 2023. El objetivo primordial radica en arrojar luz sobre patrones, tendencias y relaciones trascendentales que tienen el potencial de contribuir a una comprensión más profunda de esta compleja problemática. Además, se busca enfatizar que los resultados obtenidos, si bien se abordan desde una perspectiva académica, deberán ser considerados y validados por profesionales expertos en seguridad, a fin de emitir veredictos concluyentes y eficaces.
 
 ### Estado del proyecto:
 **En proceso**
@@ -27,14 +28,16 @@ El proyecto se enfoca en el análisis de dos conjuntos de datos relacionados con
 
 ### Funciones y aplicaciones:
 
-- **Optimización de Vigilancia Vial en Madrid:** Utilizando datos geoespaciales detallados y de accidentes, se identifican zonas críticas para una mayor vigilancia. Se eligen ubicaciones estratégicas para cámaras, maximizando la cobertura en áreas de alto riesgo y reduciendo accidentes.
+- **Identificar Patrones Temporales:** Se investigará si existen patrones temporales en las denuncias de trata de personas, analizando la distribución de casos a lo largo del día y de la semana para determinar posibles variaciones según las horas y los días.
 
-- **Selección Inteligente de Ubicaciones para Cámaras Nocturnas:** Se analizan datos de accidentes y existencia de cámaras, identificando momentos de alta incidencia de incidentes. Se determinan calles y áreas para cámaras nocturnas, mejorando la vigilancia durante horas críticas y aumentando la seguridad vial.
+- **Examinar Relaciones de Género:** Se analizará la relación entre género y los roles en casos de trata de personas, buscando comprender si hay disparidades significativas en las víctimas y perpetradores en términos de género.
 
-- **Decisión Inteligente de Ubicaciones para Cámaras basada en Datos de Calles y Barrios:** Se emplean datos de calles, tráfico y accidentes para tomar decisiones informadas sobre ubicaciones de cámaras. Considerando densidad de tráfico e incidentes en distintos barrios, se optimiza la prevención de accidentes en la ciudad.
+- **Localización Geográfica:** Se realizará un análisis espacial de las denuncias, mapeando las ubicaciones donde se reportan con mayor frecuencia los casos de trata. Esto permitirá identificar posibles áreas de mayor incidencia y su relación con factores socioeconómicos.
+
+- **Explorar Correlaciones:** Se llevará a cabo un análisis de correlación entre variables intervinientes, como la edad de las víctimas, el tipo de explotación, el lugar de denuncia y otros factores relevantes, con el fin de descubrir posibles relaciones que podrían arrojar luz sobre factores contribuyentes.
 
 ### Tecnologías utilizadas:
-- Tableau
+- Power BI
 - Python
   - Numpy
   - Pandas
@@ -47,6 +50,8 @@ El proyecto se enfoca en el análisis de dos conjuntos de datos relacionados con
 `pip3 install requerimientos.txt`
 
 ### Personas Desarrolladoras del Proyecto:
+- [integrante](link de su github)
+- [integrante](link de su github)
 - [@IanCristianAriel](https://github.com/ianCristianAriel)
 
 ### Fuente de los datos
