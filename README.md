@@ -1,4 +1,4 @@
-# Prevención de accidentes automovilisticos 
+# 2022 Argentina, trata de personas
 
 ## Descripción
 La trata de personas, un delito atroz que socava los cimientos de comunidades a nivel global, implica la flagrante violación de los derechos humanos fundamentales al explotar a individuos vulnerables con propósitos de explotación laboral, sexual y otras formas de abuso. En el específico contexto de Argentina, este fenómeno ha cobrado una preocupante relevancia, captando la atención tanto de las autoridades como de las organizaciones no gubernamentales y la sociedad en su conjunto.
@@ -10,7 +10,7 @@ Este proyecto académico se propone llevar a cabo un análisis exhaustivo de la 
 
 ### Estructura de directorios y archivos resultantes
 
-    indice de accidentalidad y registro en 2022 - Madrid
+    2022 Argentina, trata de persona
         │
         ├── datos
         │   ├── procesados          <-CSV proesados.
@@ -50,13 +50,13 @@ Este proyecto académico se propone llevar a cabo un análisis exhaustivo de la 
 `pip3 install requerimientos.txt`
 
 ### Personas Desarrolladoras del Proyecto:
-- [integrante](link de su github)
-- [integrante](link de su github)
+- [Cristian Orihuela](https://github.com/corihuela75)
+- [LevyKunn](https://github.com/LevyKunn)
 - [@IanCristianAriel](https://github.com/ianCristianAriel)
 
 ### Fuente de los datos
-- [Dataset de accidentes: madrid.es](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=7c2843010d9c3610VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
-- [Dataset de camaras: madrid.es](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=cb7005dc5b2f0710VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
+- [datos.gob.ar: Trata, orientaciones](https://datos.gob.ar/dataset/justicia-lucha-contra-trata-personas---llamados-linea-145---orientaciones)
+- [datos.gob.ar: Trata, denuncias](https://datos.gob.ar/dataset/justicia-lucha-contra-trata-personas---llamados-linea-145---denuncias)
 
 ### Licencia
 Creative Commons
