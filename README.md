@@ -1,10 +1,5 @@
 # 2022 Argentina, trata de personas
 
-## Descripción
-La trata de personas, un delito atroz que socava los cimientos de comunidades a nivel global, implica la flagrante violación de los derechos humanos fundamentales al explotar a individuos vulnerables con propósitos de explotación laboral, sexual y otras formas de abuso. En el específico contexto de Argentina, este fenómeno ha cobrado una preocupante relevancia, captando la atención tanto de las autoridades como de las organizaciones no gubernamentales y la sociedad en su conjunto.
-
-Este proyecto académico se propone llevar a cabo un análisis exhaustivo de la trata de personas en Argentina en el período que abarca desde 2019 hasta 2023. El objetivo primordial radica en arrojar luz sobre patrones, tendencias y relaciones trascendentales que tienen el potencial de contribuir a una comprensión más profunda de esta compleja problemática. Además, se busca enfatizar que los resultados obtenidos, si bien se abordan desde una perspectiva académica, deberán ser considerados y validados por profesionales expertos en seguridad, a fin de emitir veredictos concluyentes y eficaces.
-
 ### Estado del proyecto:
 **En proceso**
 
