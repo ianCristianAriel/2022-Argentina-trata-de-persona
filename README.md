@@ -48,7 +48,6 @@ pip3 install requerimientos.txt
 ### Personas Desarrolladoras del Proyecto:
 
 - [IanCristianAriel](https://github.com/ianCristianAriel)
-- [Cristian Orihuela](https://github.com/corihuela75)
 - [LevyKunn](https://github.com/LevyKunn)
 
 ### Fuente de los datos
